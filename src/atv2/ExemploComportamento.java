@@ -7,10 +7,6 @@ public class ExemploComportamento extends Agent{
 
     private int[][] matriz;
 
-    public int[][] getMatriz(){
-        return this.matriz;
-    }
-
     protected void setupMatriz(){
         for( int i = 0; i < matriz.length; i++) {
             for( int j = 0; j < matriz[i].length; j++) {
