@@ -1,0 +1,56 @@
+--- Log da Simulação Iniciada em: 2025-09-24 10:59:56 ---
+
+[10:59:56.731] Olá! O agente vendedor VendedorCarros_B@PlataformaMercado está pronto.
+[10:59:56.732] Olá! O agente vendedor VendedorCarros_A@PlataformaMercado está pronto.
+[10:59:56.732] Olá! O agente vendedor VendedorCasas_B@PlataformaMercado está pronto.
+[10:59:56.732] Olá! O agente vendedor VendedorMoveis_A@PlataformaMercado está pronto.
+[10:59:56.733] Olá! O agente vendedor VendedorMoveis_B@PlataformaMercado está pronto.
+[10:59:56.733] Olá! O agente comprador Comprador1 está pronto.
+[10:59:56.733] Olá! O agente comprador Comprador2 está pronto.
+[10:59:56.733] Olá! O agente comprador Comprador3 está pronto.
+[10:59:56.733] Olá! O agente vendedor VendedorCasas_A@PlataformaMercado está pronto.
+[10:59:56.734] Catálogo do VendedorMoveis_B: {Sofá Retrátil=1600, Mesa de Jantar=750}
+[10:59:56.734] Catálogo do VendedorMoveis_A: {Sofá Retrátil=1500, Mesa de Jantar=800}
+[10:59:56.734] Catálogo do VendedorCasas_B: {Apartamento 2 quartos=265000, Casa 3 quartos=445000}
+[10:59:56.734] Catálogo do VendedorCarros_A: {Ford Fiesta=15000, Volkswagen Gol=25000}
+[10:59:56.735] Catálogo do VendedorCarros_B: {Ford Fiesta=14800, Volkswagen Gol=26000}
+[10:59:56.735] Catálogo do VendedorCasas_A: {Apartamento 2 quartos=250000, Casa 3 quartos=450000}
+[10:59:56.737] Comprador2: tentando comprar 'Casa 3 quartos' com um orçamento de 450000
+[10:59:56.737] Comprador3: tentando comprar 'Mesa de Jantar' com um orçamento de 800
+[10:59:56.737] Comprador1: tentando comprar 'Ford Fiesta' com um orçamento de 16000
+[11:00:11.739] Comprador2: Iniciando processo de compra...
+[11:00:11.740] Comprador3: Iniciando processo de compra...
+[11:00:11.740] Comprador1: Iniciando processo de compra...
+[11:00:11.744] Comprador3: Enviei um CFP para 2 vendedores.
+[11:00:11.746] Comprador1: Enviei um CFP para 2 vendedores.
+[11:00:11.747] Comprador2: Enviei um CFP para 2 vendedores.
+[11:00:11.748] Comprador1: Recebi proposta de R$15000 do vendedor VendedorCarros_A
+[11:00:11.748] Comprador3: Recebi proposta de R$800 do vendedor VendedorMoveis_A
+[11:00:11.748] Comprador2: Recebi proposta de R$445000 do vendedor VendedorCasas_B
+[11:00:11.749] Comprador3: Recebi proposta de R$750 do vendedor VendedorMoveis_B
+[11:00:11.749] Comprador1: Recebi proposta de R$14800 do vendedor VendedorCarros_B
+[11:00:11.749] Comprador3: A melhor proposta inicial foi de R$750 do vendedor VendedorMoveis_B
+[11:00:11.749] Comprador2: Recebi proposta de R$450000 do vendedor VendedorCasas_A
+[11:00:11.749] Comprador1: A melhor proposta inicial foi de R$14800 do vendedor VendedorCarros_B
+[11:00:11.749] Comprador2: A melhor proposta inicial foi de R$445000 do vendedor VendedorCasas_B
+[11:00:11.752] Comprador2: A proposta de R$445000 é boa, mas vou tentar negociar. Enviando contraproposta de R$400500 para VendedorCasas_B
+[11:00:11.752] Comprador3: A proposta de R$750 é boa, mas vou tentar negociar. Enviando contraproposta de R$675 para VendedorMoveis_B
+[11:00:11.752] Comprador1: A proposta de R$14800 é boa, mas vou tentar negociar. Enviando contraproposta de R$13320 para VendedorCarros_B
+[11:00:11.753] VendedorCarros_B: Recebi uma contraproposta de R$13320 para o produto 'Ford Fiesta'.
+[11:00:11.753] VendedorMoveis_B: Recebi uma contraproposta de R$675 para o produto 'Mesa de Jantar'.
+[11:00:11.753] VendedorCasas_B: Recebi uma contraproposta de R$400500 para o produto 'Casa 3 quartos'.
+[11:00:11.753] VendedorMoveis_B: Bom preço para 'Mesa de Jantar'! ACEITO a proposta de R$675
+[11:00:11.753] VendedorCarros_B: Bom preço para 'Ford Fiesta'! ACEITO a proposta de R$13320
+[11:00:11.754] VendedorCasas_B: Bom preço para 'Casa 3 quartos'! ACEITO a proposta de R$400500
+[11:00:11.754] Comprador3: Compra do produto 'Mesa de Jantar' efetuada com SUCESSO com o vendedor VendedorMoveis_B
+[11:00:11.754] Comprador1: Compra do produto 'Ford Fiesta' efetuada com SUCESSO com o vendedor VendedorCarros_B
+[11:00:11.754] Comprador2: Compra do produto 'Casa 3 quartos' efetuada com SUCESSO com o vendedor VendedorCasas_B
+[11:57:44.465] Agente comprador Comprador3 finalizando.
+[11:57:44.467] Agente vendedor VendedorCarros_A@PlataformaMercado finalizando.
+[11:57:44.468] Agente vendedor VendedorMoveis_A@PlataformaMercado finalizando.
+[11:57:44.469] Agente vendedor VendedorCasas_B@PlataformaMercado finalizando.
+[11:57:44.470] Agente vendedor VendedorCarros_B@PlataformaMercado finalizando.
+[11:57:44.471] Agente comprador Comprador2 finalizando.
+[11:57:44.471] Agente comprador Comprador1 finalizando.
+[11:57:44.472] Agente vendedor VendedorCasas_A@PlataformaMercado finalizando.
+[11:57:44.473] Agente vendedor VendedorMoveis_B@PlataformaMercado finalizando.
